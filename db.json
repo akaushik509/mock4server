@@ -7,7 +7,7 @@
       "type_of_room": "AC",
       "bed_type": "Double",
       "no_of_persons":"2",
-      "capacity":"3".
+      "capacity":"3",
       "cost":"4000",
       "booked":false,
     }
@@ -17,7 +17,7 @@
       "id": 1,
       "name":"avinash",
       "email":"a@a",
-      "mob:122345678,
+      "mob":122345678,
       "pass":"abc"
     }
   ] 
